@@ -1,6 +1,6 @@
 # TrackGrabber
 
-A simple web scraper that grabs track list from a spotify playlist and adds them to a Pandas dataframe.
+A simple web scraper that grabs the track list from a spotify playlist and adds it to a Pandas dataframe.
 
 ## Getting Started
 
